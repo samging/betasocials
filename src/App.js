@@ -15,6 +15,7 @@ function App() {
           <Route path="/dashboard" element={<Dash/>} />
         </Routes>
       </BrowserRouter>   
+    
     </div>
   );
 }

@@ -42,6 +42,7 @@ const [showRegister, setShowRegister] = useState(false);
                 name="email"
                 value={email} 
                  />
+              
               </div>
               </div>
             </div>
